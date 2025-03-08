@@ -1,6 +1,7 @@
 # JAVS Ecommerce - Vishal Mani Mishra, Aditya Gonnade, P. Sujith, Jatin Kasera (Swimlane)
 
-The project involves the development of a sophisticated and user-friendly e-commerce platform that connects buyers and sellers. Leveraging .NET for backend development and Angular for frontend development, the platform aims to provide a seamless shopping experience for customers while offering robust management tools for vendors.
+The project involves the development of a sophisticated and user-friendly e-commerce platform that connects buyers and sellers. Leveraging .NET for backend development and Angular for frontend development, the platform aims to provide a seamless shopping experience for customers while offering robust management tools for vendors. Link to our video please do visit - 
+https://drive.google.com/file/d/1HLgjp7snQzv_IJ40DBrK_zRxrF2iFxnB/view?usp=sharing
 
 ## Use Case Scenario:
 
