@@ -1,6 +1,6 @@
-# JAVS Ecommerce
+# JAVS Ecommerce - Vishal Mani Mishra, Aditya Gonnade, P. Sujith, Jatin Kasera (Swimlane)
 
-The project involves the development of a sophisticated and user-friendly e-commerce platform that connects buyers and sellers. Leveraging .NET for backend development and Angular for frontend development, the platform aims to provide a seamless shopping experience for customers while offering robust management tools for vendors
+The project involves the development of a sophisticated and user-friendly e-commerce platform that connects buyers and sellers. Leveraging .NET for backend development and Angular for frontend development, the platform aims to provide a seamless shopping experience for customers while offering robust management tools for vendors.
 
 ## Use Case Scenario:
 
@@ -21,3 +21,13 @@ The project involves the development of a sophisticated and user-friendly e-comm
 
 ### 6.Order Tracking and History:
    Provide users with the ability to track their orders in real-time and access their order history. Send email notifications to update customers about order status changes.
+ 
+## Technical Implementation
+   
+   ### 1. JWT Authentication
+   ### 2. Admin/Non-Admin Authorization
+   ### 3. Enhance search string matching algorithm implementation 
+   ### 4. In-Memory caching implementation
+   ### 5. CRUD Operations handling using proper service classes, validation classes, repository classes, model classes.
+   ### 6. Pagination implementation in both backend and frontend.
+   ### 7. Database Connectivity involving Mongodb and PostgreSQL.
