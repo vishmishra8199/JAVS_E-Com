@@ -29,6 +29,6 @@ https://drive.google.com/file/d/1HLgjp7snQzv_IJ40DBrK_zRxrF2iFxnB/view?usp=shari
    ### 2. Admin/Non-Admin Authorization
    ### 3. Enhance search string matching algorithm implementation 
    ### 4. In-Memory caching implementation
-   ### 5. CRUD Operations handling using proper service classes, validation classes, repository classes, model classes.
+   ### 5. CRUD Operations handling using proper controller classes, service classes, validation classes, repository classes, model classes.
    ### 6. Pagination implementation in both backend and frontend.
    ### 7. Database Connectivity involving Mongodb and PostgreSQL.
