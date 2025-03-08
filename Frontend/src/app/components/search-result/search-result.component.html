@@ -1,0 +1,23 @@
+<app-header></app-header>
+<app-advertisement></app-advertisement>
+
+<div class="container-fluid pdt-disp">
+    
+    <div *ngFor="let items of Product_details"  class="row float-container">
+        <div class="col" (click)="onGetProductDummy( items.sellerId,items.name )">
+            <div class="float-child" >
+                <img src="../../assets/images/{{items.imagesURL}}" class="img-dimention">
+
+            </div>
+                <div *ngIf="fetchedPdt==true" class="float-child" >
+                    <h3>{{items.name}}</h3>
+                    <h4>{{items.category}}</h4>
+                    <p> {{items.description}}</p>
+                </div>
+          </div>
+          
+       
+      </div>
+
+      
+</div>

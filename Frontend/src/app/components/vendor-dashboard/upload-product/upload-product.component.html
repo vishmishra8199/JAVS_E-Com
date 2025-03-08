@@ -1,0 +1,55 @@
+
+<div class="col-md-6 offset-md-3 mt-5">
+    <h1>Upload your product and hike your business</h1>
+    <form accept-charset="UTF-8" [formGroup]="productForm" (ngSubmit)="onSubmitProduct()">
+      <div class="form-group">
+        <label for="exampleInputName">Product Name</label>
+        <input type="text" name="ProductName" class="form-control" id="ProductName" placeholder="Enter your Product Name" required="required" formControlName="productName">
+      </div>
+      <div class="form-group">
+        <label for="exampleInputName">sellerId</label>
+        <input type="text" name="ProductName" class="form-control" id="sellerId" placeholder="Enter your sellerId" required="required" formControlName="sellerId">
+      </div>
+      <div class="form-group">
+        <label for="exampleFormControlSelect1">Choose category</label>
+        <select class="form-control" id="category" name="platform" required="required" formControlName="category">
+          <option>Electronic</option>
+          <option>Shoes</option>
+          <option>Drink</option>
+        </select>
+      </div>
+​
+      <div class="form-group">
+        <label for="exampleInputName">Tags</label>
+        <input type="text" name="ProductName" class="form-control" id="tags" placeholder="Enter your space saperated tags" required="required" formControlName="tags">
+      </div>
+      <div class="form-group">
+        <label for="exampleInputName">Description</label>
+        <input type="text" name="ProductName" class="form-control" id="descriptions" placeholder="Enter product description" required="required" formControlName="descriptions">
+      </div>
+      <div class="form-group">
+        <label for="exampleInputName">Quantity</label>
+        <input type="nuber" name="ProductName" class="form-control" id="quantity" placeholder="Enter total quantity of your product" required="required" formControlName="quantity">
+      </div>
+      <div class="form-group">
+        <label for="exampleInputName">Price</label>
+        <input type="number" name="ProductName" class="form-control" id="price" placeholder="Enter price of your product" required="required" formControlName="price">
+      </div>
+      <div class="form-group">
+        <label for="exampleInputName">Discount</label>
+        <input type="number" name="ProductName" class="form-control" id="discount" placeholder="Enter discount if any or else 0" required="required" formControlName="discount">
+      </div>
+    </form>
+      
+      <hr>
+      
+      <form [formGroup]="imageForm" (ngSubmit)="onSubmitImage()">
+        
+      <div class="form-group mt-3">
+        <label class="mr-2">Upload product image</label>
+        <input type="file" name="file" formControlName="searchQuery">
+      </div>
+      <hr>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div> 

@@ -1,0 +1,31 @@
+.nav-list{
+    /* margin-left: 2000px; */
+    padding-left: 100px;
+}
+
+
+
+.d-flex{
+    width:fit-content;
+    height: 40px;
+    padding-left: 80px;
+}
+.me-2{
+    height:40px;
+}
+.mydiv{
+    margin-bottom: 5px;
+}
+
+.form-control{
+    width:1000px;
+    
+}
+
+.searchbtn{
+    height: fit-content;
+    width: fit-content;
+    background-color: yellowgreen;
+    margin-bottom: 1000px;
+    
+}

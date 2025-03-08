@@ -1,0 +1,462 @@
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/appsettings.Development.json
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/appsettings.json
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/JWT_Token_Example
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/JWT_Token_Example.deps.json
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/JWT_Token_Example.runtimeconfig.json
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/JWT_Token_Example.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/JWT_Token_Example.pdb
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Azure.Core.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Azure.Identity.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Humanizer.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/MessagePack.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/MessagePack.Annotations.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.VisualStudio.CoreUtility.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.VisualStudio.Language.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.VisualStudio.Language.Intellisense.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.VisualStudio.Text.Data.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.VisualStudio.Text.Logic.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.VisualStudio.Text.UI.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.VisualStudio.Threading.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.VisualStudio.Validation.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Nerdbank.Streams.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Npgsql.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/StreamJsonRpc.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/System.CodeDom.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/System.ComponentModel.Composition.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/cs/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/de/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/es/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/fr/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/it/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/ja/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/ko/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/pl/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/ru/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/tr/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/cs/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/de/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/es/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/fr/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/it/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/ja/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/ko/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/pl/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/ru/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/tr/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/cs/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/de/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/es/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/fr/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/it/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/ja/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/ko/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/pl/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/pt-BR/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/ru/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/tr/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/zh-Hans/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/zh-Hant/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/JWT_Token_Example.csproj.AssemblyReference.cache
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/JWT_Token_Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/JWT_Token_Example.AssemblyInfoInputs.cache
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/JWT_Token_Example.AssemblyInfo.cs
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/JWT_Token_Example.csproj.CoreCompileInputs.cache
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/JWT_Token_Example.MvcApplicationPartsAssemblyInfo.cs
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/JWT_Token_Example.MvcApplicationPartsAssemblyInfo.cache
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/staticwebassets/msbuild.JWT_Token_Example.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/staticwebassets/msbuild.build.JWT_Token_Example.props
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.JWT_Token_Example.props
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.JWT_Token_Example.props
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/staticwebassets.build.json
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/staticwebassets.development.json
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/scopedcss/bundle/JWT_Token_Example.styles.css
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/JWT_Token_Example.csproj.CopyComplete
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/JWT_Token_Example.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/refint/JWT_Token_Example.dll
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/JWT_Token_Example.pdb
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/JWT_Token_Example.genruntimeconfig.cache
+/Users/aditya.gonnade/Documents/Project Practice/backend/JWT_Token_Example/JWT_Token_Example/obj/Debug/net7.0/ref/JWT_Token_Example.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/appsettings.Development.json
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/appsettings.json
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/JWT_Token_Example
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/JWT_Token_Example.deps.json
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/JWT_Token_Example.runtimeconfig.json
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/JWT_Token_Example.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/JWT_Token_Example.pdb
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Azure.Core.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Azure.Identity.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Humanizer.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/MessagePack.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/MessagePack.Annotations.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.CoreUtility.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Language.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Language.Intellisense.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Text.Data.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Text.Logic.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Text.UI.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Threading.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Validation.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Nerdbank.Streams.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Npgsql.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/StreamJsonRpc.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/System.CodeDom.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/System.ComponentModel.Composition.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/cs/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/de/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/es/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/fr/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/it/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/ja/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/ko/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/pl/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/ru/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/tr/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/cs/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/de/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/es/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/fr/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/it/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/ja/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/ko/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/pl/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/ru/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/tr/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/cs/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/de/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/es/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/fr/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/it/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/ja/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/ko/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/pl/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/pt-BR/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/ru/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/tr/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/zh-Hans/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/zh-Hant/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/JWT_Token_Example.csproj.AssemblyReference.cache
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/JWT_Token_Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/JWT_Token_Example.AssemblyInfoInputs.cache
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/JWT_Token_Example.AssemblyInfo.cs
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/JWT_Token_Example.csproj.CoreCompileInputs.cache
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/JWT_Token_Example.MvcApplicationPartsAssemblyInfo.cs
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/JWT_Token_Example.MvcApplicationPartsAssemblyInfo.cache
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/staticwebassets/msbuild.JWT_Token_Example.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.JWT_Token_Example.props
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.JWT_Token_Example.props
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.JWT_Token_Example.props
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/staticwebassets.build.json
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/staticwebassets.development.json
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/scopedcss/bundle/JWT_Token_Example.styles.css
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/JWT_Token_Example.csproj.CopyComplete
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/JWT_Token_Example.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/refint/JWT_Token_Example.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/JWT_Token_Example.pdb
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/JWT_Token_Example.genruntimeconfig.cache
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/obj/Debug/net7.0/ref/JWT_Token_Example.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/MailKit.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/MimeKit.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/NETCore.MailKit.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Configuration.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Cryptography.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Metadata.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/DnsClient.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/SharpCompress.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/Snappier.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/ZstdSharp.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+/Users/aditya.gonnade/Documents/GitHub/JAVS/Backend/bin/Debug/net7.0/AWSSDK.S3.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/appsettings.Development.json
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/appsettings.json
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/JWT_Token_Example
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/JWT_Token_Example.deps.json
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/JWT_Token_Example.runtimeconfig.json
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/JWT_Token_Example.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/JWT_Token_Example.pdb
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/AWSSDK.S3.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Azure.Core.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Azure.Identity.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Configuration.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Cryptography.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/DnsClient.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Humanizer.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/MailKit.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/MessagePack.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/MessagePack.Annotations.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Metadata.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.CoreUtility.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Language.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Language.Intellisense.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Text.Data.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Text.Logic.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Text.UI.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Threading.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.VisualStudio.Validation.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/MimeKit.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Nerdbank.Streams.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/NETCore.MailKit.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Npgsql.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/SharpCompress.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Snappier.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/StreamJsonRpc.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/System.CodeDom.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/System.ComponentModel.Composition.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/ZstdSharp.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/cs/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/de/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/es/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/fr/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/it/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/ja/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/ko/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/pl/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/ru/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/tr/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.Threading.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/cs/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/de/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/es/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/fr/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/it/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/ja/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/ko/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/pl/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/ru/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/tr/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/cs/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/de/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/es/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/fr/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/it/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/ja/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/ko/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/pl/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/pt-BR/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/ru/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/tr/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/zh-Hans/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/zh-Hant/StreamJsonRpc.resources.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/JWT_Token_Example.csproj.AssemblyReference.cache
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/JWT_Token_Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/JWT_Token_Example.AssemblyInfoInputs.cache
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/JWT_Token_Example.AssemblyInfo.cs
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/JWT_Token_Example.csproj.CoreCompileInputs.cache
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/JWT_Token_Example.MvcApplicationPartsAssemblyInfo.cs
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/JWT_Token_Example.MvcApplicationPartsAssemblyInfo.cache
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/staticwebassets/msbuild.JWT_Token_Example.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.JWT_Token_Example.props
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.JWT_Token_Example.props
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.JWT_Token_Example.props
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/staticwebassets.build.json
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/staticwebassets.development.json
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/scopedcss/bundle/JWT_Token_Example.styles.css
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/JWT_Token_Example.csproj.CopyComplete
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/JWT_Token_Example.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/refint/JWT_Token_Example.dll
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/JWT_Token_Example.pdb
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/JWT_Token_Example.genruntimeconfig.cache
+/Users/aditya.gonnade/Documents/Final/JAVS-Aditya-FInal/Backend/obj/Debug/net7.0/ref/JWT_Token_Example.dll
